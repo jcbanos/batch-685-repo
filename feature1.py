@@ -1,2 +1,2 @@
-def jcs_method:
+def eduardos_method:
     pass
